@@ -1,4 +1,4 @@
-hello-world
+COLLABS
 ===========
 
 Collaborative concepts and resources
